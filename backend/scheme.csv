@@ -1,0 +1,31 @@
+age,gender,occupation,income,location,scheme
+35,Male,Software Engineer,85000,Urban-Mumbai,PM Skill India
+42,Female,Teacher,45000,Semi-Urban-Pune,National Pension Scheme
+67,Male,Retired,28000,Rural-Bihar,PM Kisan Samman Nidhi
+29,Female,Nurse,38000,Urban-Delhi,Ayushman Bharat
+52,Male,Farmer,22000,Rural-Punjab,Agricultural Subsidy Program
+45,Female,Small Business Owner,55000,Semi-Urban-Jaipur,Mudra Loan Scheme
+33,Male,Government Employee,42000,Urban-Chennai,Government Employee Health Scheme
+58,Female,Homemaker,0,Rural-Uttar Pradesh,Ujjwala Yojana
+24,Male,Student,5000,Urban-Bangalore,Higher Education Scholarship
+72,Female,Retired,18000,Rural-Madhya Pradesh,Old Age Pension Scheme
+39,Male,Factory Worker,28000,Semi-Urban-Surat,Employees State Insurance Scheme
+31,Female,IT Professional,75000,Urban-Hyderabad,No Scheme
+48,Male,Shop Owner,40000,Semi-Urban-Indore,Stand-Up India
+63,Female,Retired Teacher,32000,Rural-Kerala,Senior Citizen Savings Scheme
+27,Male,Delivery Driver,22000,Urban-Kolkata,Pradhan Mantri Jeevan Jyoti Bima Yojana
+51,Female,Nurse,48000,Rural-Tamil Nadu,Rural Health Mission Benefit
+37,Male,Agricultural Laborer,15000,Rural-Gujarat,MGNREGA
+44,Female,Bank Employee,52000,Urban-Lucknow,Home Loan Subsidy
+22,Male,Apprentice,18000,Semi-Urban-Bhopal,Skill Development Scheme
+68,Female,Retired,24000,Rural-Rajasthan,National Social Assistance Program
+41,Male,School Teacher,38000,Semi-Urban-Chandigarh,Education Loan Subsidy
+35,Female,Marketing Executive,60000,Urban-Ahmedabad,No Scheme
+56,Male,Farmer,25000,Rural-Haryana,PM Fasal Bima Yojana
+29,Female,Social Worker,32000,Urban-Nagpur,No Scheme
+47,Male,Auto Driver,20000,Semi-Urban-Coimbatore,PM Shram Yogi Maandhan
+34,Female,Small Business Owner,45000,Rural-Assam,Startup Village Entrepreneurship Programme
+65,Male,Retired Government Employee,35000,Urban-Patna,Pensioners' Health Scheme
+28,Female,Sales Associate,26000,Semi-Urban-Dehradun,Maternity Benefit Program
+53,Male,Construction Worker,24000,Rural-Jharkhand,Building and Construction Workers Welfare
+39,Female,Private Company Employee,50000,Urban-Guwahati,PM Awas Yojana
